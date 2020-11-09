@@ -11,7 +11,7 @@ https://developer.here.com/documentation/examples/rest/places/explore-popular-pl
 This repository is created with GitFlow model. Please checkout this repository using either your favourite git 
 client tool or using commandline
 
-    git checkout https://github.com/dhananjay4058/mbrdi-assignment/.git
+    git checkout https://github.com/dhananjay4058/mbrdi-assignment.git
     
 ### Prerequisites
 In order to build this project, you need to install JDK 8+ and Maven 3.0+. After installation and following required 
